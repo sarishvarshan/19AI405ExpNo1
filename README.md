@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: SANJAY V</h3>
-<h3>Register Number: 212223230188 
+<h3>Name: SARISH VARSHAN V</h3>
+<h3>Register Number: 212223230196
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
