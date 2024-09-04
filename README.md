@@ -227,6 +227,7 @@ print(agent.performance)
 
 # OUTPUT :
 
+![image](https://github.com/user-attachments/assets/8a7c54d6-5f39-4a38-8f1f-e9fa179cd672)
 
 
 
